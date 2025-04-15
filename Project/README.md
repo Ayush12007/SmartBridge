@@ -77,49 +77,33 @@ Our event management system has three main components:
 Our team consists of:
 
 <ul>
-  <li><strong>Anurag Kumar Singh:</strong>  
-  Connect with Anurag on 
-  <a href="https://www.linkedin.com/in/anuragkumar17/">
+  <li><strong>Ayush Thakare:</strong>  
+  Connect with Ayush on 
+  <a href="https://www.linkedin.com/in/ayush-thakare-833941251/">
   LinkedIn
-  </a> and 
-  <a href="https://github.com/d17012002">
-  GitHub
-  </a>, or visit his 
-  <a href="https://d17012002.github.io/Protfolio-Sample/">
-  personal website
-  </a>.
+  </a>
+  <p>Reg Number: 22BSA10051</p>
+  .
   </li>
-  <li><strong>Devanshu Yadav:</strong>
-  Connect with Devanshu on 
-  <a href="https://www.linkedin.com/in/devanshuyadav16/">
+  <li><strong>Nehil Nama:</strong>
+  Connect with Nehil on 
+  <a href="https://www.linkedin.com/in/nehil-nama-772972247/">
   LinkedIn
-  </a> and 
-  <a href="https://github.com/devanshuyadav">
-  GitHub
-  </a>, or visit his 
-  <a href="https://devanshuyadav.vercel.app/">
-  personal website
-  </a>.
+  </a><p>Reg Number: 22BCE10789</p>.
   </li>
-  <li><strong>Saksham Gupta:</strong>
-  Connect with Saksham on 
-  <a href="https://www.linkedin.com/in/sakshguptavit/">
+  <li><strong>Divyansh Singhal:</strong>
+  Connect with Divyansh on 
+  <a href="https://www.linkedin.com/in/divyansh-singhal-83b848250/">
   LinkedIn
-  </a> and 
-  <a href="https://github.com/sakshgupta">
-  GitHub
-  </a>, or visit his 
-  <a href="https://sakshgupta.vercel.app/">
-  personal website
-  </a>.
+  </a><p>Reg Number: 22BCE10514</p>.
+  </li>
+  </li>
+  <li><strong>Akshat Raj:</strong>
+  Connect with Akshat on 
+  <a href="https://www.linkedin.com/in/akshat-raj-88a578250/">
+  LinkedIn
+  </a><p>Reg Number: 22BSA10144</p>.
   </li>
 </ul>
 <br>
 
-<h1>🙌 Contributions</h1>
-We welcome contributions to our project. If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
-<br>
-<br>
-
-<h1>📜 License</h1>
-This project is licensed under the MIT License - see the LICENSE.md file for details.
