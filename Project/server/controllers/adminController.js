@@ -2,7 +2,7 @@ const Admin = require("../models/admin");
 const jwt = require("jsonwebtoken");
 const dotenv = require("dotenv");
 dotenv.config();
-const JWT_SECRET = "fa2b9e021e9dbd7255f896b3f97cfce4b6639b1a983f674d39517f540d2c3f96";
+const JWT_SECRET = process.env.JWT_SECRET;
 
 const setAdmin = async (req, res) => {
     const secret = JWT_SECRET;

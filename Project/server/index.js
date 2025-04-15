@@ -16,10 +16,10 @@ const eventRouter = require("./routes/eventRoutes");
 // const checkInRouter = require("./routes/checkInRoutes")
 
 dotenv.config();
-console.log("in index - ", "mongodb+srv://thakareayush12:TrtQgcvBHysiE6Sh@cluster10.alilu.mongodb.net/inVite");
+console.log("in index - ", process.env.MONGO_ATLAS_URI);
 //database url
 mongoose
-    .connect("mongodb+srv://thakareayush12:TrtQgcvBHysiE6Sh@cluster10.alilu.mongodb.net/inVite", {
+    .connect(process.env.MONGO_ATLAS_URI, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     })

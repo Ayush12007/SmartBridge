@@ -5,7 +5,7 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 const jwt = require("jsonwebtoken");
-const JWT_SECRET = "fa2b9e021e9dbd7255f896b3f97cfce4b6639b1a983f674d39517f540d2c3f96";
+const JWT_SECRET = process.env.JWT_SECRET;
 
 const nodemailer = require("nodemailer");
 
@@ -13,8 +13,8 @@ function sendCheckInMail(data) {
     let transporter = nodemailer.createTransport({
         service: "gmail",
         auth: {
-            user: "thakareayush12@gmail.com",
-            pass: "pntb fjmg pwox ylng",
+            user: process.env.NODE_MAILER_USER,
+            pass: process.env.NODE_MAILER_PASS,
         },
         tls: {
             rejectUnauthorized: false,
@@ -22,7 +22,7 @@ function sendCheckInMail(data) {
     });
 
     let mailOptions = {
-        from: "thakareayush12@gmail.com",
+        from: process.env.NODE_MAILER_USER,
         to: data.email,
         subject: `${data.name} You've Checked In - InVITe`,
         html: `Dear ${data.name},<br><br>

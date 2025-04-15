@@ -10,7 +10,7 @@ const otpGenerator = require("otp-generator");
 const { sendSMS } = require("./smsController");
 
 const jwt = require("jsonwebtoken");
-const JWT_SECRET = "fa2b9e021e9dbd7255f896b3f97cfce4b6639b1a983f674d39517f540d2c3f96";
+const JWT_SECRET = process.env.JWT_SECRET;
 console.log("in auth - ", JWT_SECRET);
 
 const cookieParser = require("cookie-parser");
