@@ -1,5 +1,4 @@
 <h1 align="center"> InVITe | Event Management System</h1>
-<h3 align="center">Live at https://invite-onweb.vercel.app/</h3>
 Welcome to our automated event management system, where you can easily organize events, manage registrations, and book tickets, all with just a few clicks. This system provides a hassle-free experience for both event organizers and attendees, making event management a breeze.
 <br>
 
@@ -83,26 +82,25 @@ Our team consists of:
   LinkedIn
   </a>
   <p>Reg Number: 22BSA10051</p>
-  .
   </li>
   <li><strong>Nehil Nama:</strong>
   Connect with Nehil on 
   <a href="https://www.linkedin.com/in/nehil-nama-772972247/">
   LinkedIn
-  </a><p>Reg Number: 22BCE10789</p>.
+  </a><p>Reg Number: 22BCE10789</p>
   </li>
   <li><strong>Divyansh Singhal:</strong>
   Connect with Divyansh on 
   <a href="https://www.linkedin.com/in/divyansh-singhal-83b848250/">
   LinkedIn
-  </a><p>Reg Number: 22BCE10514</p>.
+  </a><p>Reg Number: 22BCE10514</p>
   </li>
   </li>
   <li><strong>Akshat Raj:</strong>
   Connect with Akshat on 
   <a href="https://www.linkedin.com/in/akshat-raj-88a578250/">
   LinkedIn
-  </a><p>Reg Number: 22BSA10144</p>.
+  </a><p>Reg Number: 22BSA10144</p>
   </li>
 </ul>
 <br>
